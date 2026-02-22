@@ -1,0 +1,5 @@
+loan_data_2007_2014.csv
+__pycache__/
+.streamlit/
+.ipynb_checkpoints/
+*.pyc
