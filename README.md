@@ -26,3 +26,6 @@ Proyek ini bertujuan untuk menganalisis risiko kredit menggunakan dataset histor
 
 ## Dataset
 *Dataset asli (`loan_data_2007_2014.csv`) tidak disertakan karena ukuran yang besar.*
+
+## Link project
+https://credit-risk-analysis-maheza.streamlit.app/
