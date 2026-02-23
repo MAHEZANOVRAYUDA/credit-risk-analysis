@@ -174,4 +174,4 @@ else:
             st.warning("Perhatian: Rasio keuangan nasabah dikategorikan berisiko tinggi.")
 
 st.markdown("<br><br><br>", unsafe_allow_html=True)
-st.caption("Aplikasi Prediksi Risiko Kredit v3.0 | Sederhana & Kontras Tinggi")
+st.caption("Aplikasi Prediksi Risiko Kredit | Maheza Novrayuda")
