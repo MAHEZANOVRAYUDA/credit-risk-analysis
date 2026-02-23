@@ -1,4 +1,4 @@
-# Credit Risk Analysis & Prediction
+# Maheza Novrayuda Analysis & Prediction
 
 Proyek ini bertujuan untuk menganalisis risiko kredit menggunakan dataset historis (2007-2014) dan membangun model prediksi yang diintegrasikan dengan aplikasi web berbasis **Streamlit**.
 
@@ -8,9 +8,9 @@ Proyek ini bertujuan untuk menganalisis risiko kredit menggunakan dataset histor
 - **Aplikasi Web (Streamlit)**: Antarmuka modern untuk melakukan prediksi risiko kredit nasabah secara instan.
 
 ## Struktur Project
-- `Final_Task_IDX_Partners_Data_Scientist_CreditRisk.ipynb`: Notebook untuk analisis dan pelatihan model.
+- `Final_Task_IDX_Partners_Data_Scientist_MahezaNovrayuda.ipynb`: Notebook untuk analisis dan pelatihan model.
 - `app.py`: Kode utama aplikasi Streamlit.
-- `credit_risk_model_pack.joblib`: Model yang sudah dilatih dan siap digunakan.
+- `model package.joblib`: Model yang sudah dilatih dan siap digunakan.
 - `requirements.txt`: Daftar library yang dibutuhkan.
 
 ## Cara Menjalankan Secara Lokal
