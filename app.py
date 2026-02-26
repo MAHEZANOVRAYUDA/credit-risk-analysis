@@ -79,7 +79,7 @@ def load_model():
 model_pack = load_model()
 
 # Header Aplikasi
-st.title("Maheza Novrayuda Analysis")
+st.title("Credit risk Analysis")
 st.write("Sistem prediksi risiko kredit nasabah berdasarkan data historis.")
 st.markdown("---")
 
@@ -171,4 +171,4 @@ else:
 
 # Footer
 st.markdown("<br><br>", unsafe_allow_html=True)
-st.caption("Aplikasi Prediksi - Maheza Novrayuda")
+st.caption("Aplikasi Prediksi - @Maheza Novrayuda")
