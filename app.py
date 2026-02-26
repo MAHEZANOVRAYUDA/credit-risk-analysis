@@ -71,7 +71,7 @@ st.markdown("""
 def load_model():
     """Memuat model machine learning dari file joblib."""
     try:
-        return joblib.load('model package.joblib')
+        return joblib.load('credit_risk_model_pack.joblib')
     except Exception:
         return None
 
@@ -84,7 +84,7 @@ st.write("Sistem prediksi risiko kredit nasabah berdasarkan data historis.")
 st.markdown("---")
 
 if model_pack is None:
-    st.error("File 'model package.joblib' tidak ditemukan.")
+    st.error("File 'credit_risk_model_pack.joblib' tidak ditemukan.")
 else:
     # Form Input: Profil Keuangan
     st.header("1. Profil Keuangan")
